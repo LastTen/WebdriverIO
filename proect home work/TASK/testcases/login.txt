@@ -1,0 +1,8 @@
+title: login to GitHub with invalid email
+
+1)open https://github.com/
+2)click 'Sign in' button
+3)enter 'usermame' in 'Username or email address'
+4)enter password in 'Password'
+5)click 'Sign in'
+6)screen error massage

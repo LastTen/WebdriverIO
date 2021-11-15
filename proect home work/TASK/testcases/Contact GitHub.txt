@@ -1,0 +1,6 @@
+title: scroll to footer click 'Contacts'
+
+1)open https://github.com/
+2)scroll to footer
+3)click 'Contact GitHub'
+4)check the title

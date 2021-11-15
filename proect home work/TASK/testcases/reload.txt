@@ -1,0 +1,6 @@
+title: scroll to footer and reload
+
+1)open https://github.com/
+2)scroll to footer
+3)click logo "github"
+4)check the title 'Where the world builds software' in InViewport

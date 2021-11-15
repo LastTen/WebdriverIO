@@ -1,0 +1,5 @@
+title: go to 'Enterprise'
+
+1)open https://github.com/
+2)click 'Enterprise' button
+3)copy URL 

@@ -1,0 +1,8 @@
+title: registration to GitHub with invalid email
+
+1)open https://github.com/
+2)click 'Sign up' button
+3)await until appears 'Enter your email'
+4)enter 'Incorectmailtest.com'
+5)click 'Continue' button
+6)screen error massage
